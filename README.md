@@ -1,2 +1,2 @@
-# cypress-tutorial
-cypress tutorial
+# cypress-training
+cypress training
